@@ -1,0 +1,6 @@
+pandas
+numpy
+fastapi
+requests
+uvicorn
+scikit-learn

@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System (FastAPI + React + AWS)
+#  Movie Recommender System (FastAPI + React + AWS)
 
 A complete end-to-end **Movie Recommendation System** that suggests the **top 5 similar movies** based on user selection.  
 Built using **FastAPI**, **React (Vite)**, **scikit-learn**, **Docker**, and deployed on **AWS EC2** + **Vercel**.
