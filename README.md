@@ -28,6 +28,7 @@ Built using **FastAPI**, **React (Vite)**, **scikit-learn**, **Docker**, and dep
 - Uvicorn  
 - Docker  
 - AWS EC2 Hosting  
+- Postman API testing
 
 ### **Frontend**
 - React (Vite)  
