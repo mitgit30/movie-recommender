@@ -7,14 +7,14 @@ Built using **FastAPI**, **React (Vite)**, **scikit-learn**, **Docker**, and dep
 
 ##  Project Overview
 
-- Trained a recommendation model on **5000 movies** and their details.  
+- Trained a recommendation model on **5000 movies** and their details (IMDB).  
 - Training code was **modularized** and have an  `.ipynb` workflow.  
 - Built a **FastAPI backend** to serve recommendations via API.  
 - Created a basic  **React frontend** with a dropdown where users pick a movie.  
 - Backend computes the top 5 similar movies using **cosine similarity** and returns posters + titles.  
 - Frontend displays recommendations in a simple UI.  
 - Backend tested with **Postman** before integrating UI.  
-- Backend dockerized and deployed on **AWS EC2 (Free Tier)**.  
+- Backend dockerized and deployed on **AWS Elastic Cloud Compute (EC2) (Free Tier)**.  
 - Frontend hosted on **Vercel**.
 
 ---
